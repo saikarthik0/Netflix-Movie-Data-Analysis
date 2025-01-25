@@ -19,3 +19,10 @@ This project involves a comprehensive analysis of Netflix's movies data using Py
 The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://github.com/saikarthik0/Netflix-Movie-Data-Analysis/blob/main/mymoviedb.csv)
+
+## Process
+- Verified the dataset for any missing values and anomalies, and addressed them appropriately to ensure data completeness and integrity.
+- Ensured the dataset is consistent and clean in terms of data types, formats, and values, adhering to the requirements of the analysis.
+- Removed unused or irrelevant columns to reduce noise and focus on relevant features for the analysis.
+- Converted data types to those suitable for analysis, ensuring alignment with the requirements of the business problem.
+- Prepared the dataset to be fully processed and ready for analysis, ensuring it meets all quality standards for accurate and reliable insights.
